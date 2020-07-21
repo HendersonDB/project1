@@ -1,0 +1,97 @@
+  /* Navbar */
+  
+  
+  .navbar {
+    background-color: yellow;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .9em;
+    letter-spacing: .1rem;
+    background: rgb(0, 0, 0, .6)!important;
+  }
+  
+  .navbar-brand img {
+  height: 2rem;
+  }
+  
+  .navbar-nav li {
+    padding-right: .7rem;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: white;
+    padding-top: .8rem;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link.active,
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color:yellow;
+  }
+
+
+
+.jumbotron {
+    border-radius: 0;
+    padding: 3rem 0 2rem;
+    margin-bottom: 0;
+  }
+  
+  h3.heading {
+    font-size: 1.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-bottom: 1.9rem;
+  }
+  
+  .heading-underline {
+    width: 3rem;
+    height: .2rem;
+    background-color: yellow;
+    margin: 0 auto 2rem;
+  }
+
+
+
+
+
+.menu-body {
+    max-width: 680px;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .menu-section {
+    margin-bottom: 80px;
+  }
+  
+  .menu-section-title {
+    
+    font-size: 25px;
+    display: block;
+    font-weight:normal;
+    margin: 20px 0; 
+    text-align: Center;
+  }
+  
+  .menu-item {
+    margin: 25px 0;
+    font-size: 18px;
+  }
+  
+  .menu-item-name{
+    
+    font-weight: bold;
+    border-bottom: 2px dotted black;
+  }
+  
+  .menu-item-description {
+    
+    font-size: .9em;
+    line-height: 1.5em;
+  }
+  
+  .menu-item-price{
+    float: right;
+    font-weight: bold;
+    margin-top: -27px;
+  }
