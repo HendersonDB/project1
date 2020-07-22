@@ -211,7 +211,7 @@ body {
   .menu-item-name{
     
     font-weight: bold;
-    border-bottom: 2px dotted white;
+    border-bottom: 2px dotted black;
   }
   
   .menu-item-description {
@@ -223,6 +223,5 @@ body {
   .menu-item-price{
     float: right;
     font-weight: bold;
-    margin-top: -22px;
+    margin-top: -27px;
   }
-  
